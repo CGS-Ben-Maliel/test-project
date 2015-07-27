@@ -24,6 +24,7 @@ class ViewController: UIViewController {
 
 
     func featureX() {
+        //comment
         println("This is an amazing feature")
     }
 
