@@ -31,6 +31,11 @@ class ViewController: UIViewController {
     func featureY() {
         print("Feature blahz")
     }
+    
+    func featureQ() {
+        
+        println("feature stuff")
+    }
 
 }
 
