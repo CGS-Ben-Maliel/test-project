@@ -39,8 +39,13 @@ class ViewController: UIViewController {
         println("more features!!!!")
     }
     
+<<<<<<< HEAD
     func masterFunc() {
         //master function
+=======
+    func featureT() {
+        //comment
+>>>>>>> feature-t
     }
 
 }
