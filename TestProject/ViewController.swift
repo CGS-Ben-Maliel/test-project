@@ -38,6 +38,10 @@ class ViewController: UIViewController {
         println("feature stuff")
         println("more features!!!!")
     }
+    
+    func masterFunc() {
+        //master function
+    }
 
 }
 
