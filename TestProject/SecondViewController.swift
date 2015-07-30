@@ -10,10 +10,9 @@ import UIKit
 
 class SecondViewController: UIViewController {
 
-    @IBOutlet var testLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
-        testLabel.text = "new text"
+        
         println("new view controller")
 
         // Do any additional setup after loading the view.
