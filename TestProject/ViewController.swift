@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         // new comment
+        //another comment
     }
 
 
@@ -38,14 +39,9 @@ class ViewController: UIViewController {
         println("feature stuff")
         println("more features!!!!")
     }
-    
-<<<<<<< HEAD
-    func masterFunc() {
-        //master function
-=======
+
     func featureT() {
         //comment
->>>>>>> feature-t
     }
 
 }
