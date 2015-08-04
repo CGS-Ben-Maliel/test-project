@@ -81,11 +81,11 @@
 			children = (
 				B5CFE2E41B5DE4B10000DF77 /* AppDelegate.swift */,
 				B5CFE2E61B5DE4B10000DF77 /* ViewController.swift */,
+				B517343C1B69E72C00233626 /* SecondViewController.swift */,
 				B5CFE2E81B5DE4B10000DF77 /* Main.storyboard */,
 				B5CFE2EB1B5DE4B10000DF77 /* Images.xcassets */,
 				B5CFE2ED1B5DE4B10000DF77 /* LaunchScreen.xib */,
 				B5CFE2E21B5DE4B10000DF77 /* Supporting Files */,
-				B517343C1B69E72C00233626 /* SecondViewController.swift */,
 			);
 			path = TestProject;
 			sourceTree = "<group>";

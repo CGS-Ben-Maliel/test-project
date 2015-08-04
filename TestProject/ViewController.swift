@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         println("This is an amazing feature")
     }
     
-    func featureY() {
+    func featureZ() {
         print("Feature blahz")
     }
     
