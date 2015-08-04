@@ -41,7 +41,7 @@ class ViewController: UIViewController {
         println("more features!!!!")
     }
 
-    func featureT() {
+    func featureA() {
         //comment
     }
 
